@@ -1,5 +1,9 @@
 package com.abstractFactoryPattern;
-
+/**
+ * 
+ * @author Administrator
+ * @link http://www.runoob.com/design-pattern/singleton-pattern.html
+ */
 public class AbstractFactoryDemo {
 
 	public static void main(String[] args) {
